@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides possible essay topics for each of the course writing
+  assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

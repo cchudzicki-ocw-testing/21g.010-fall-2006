@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the required texts for the course and
+  the reading assignments by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
